@@ -1,0 +1,19 @@
+{
+  "name": "new_js_practice",
+  "version": "1.0.0",
+  "description": "js-constructor",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html -p 3000 --open",
+    "build": "parcel build ./src/index.html --no-source-maps"
+  },
+  "keywords": [
+    "js",
+    "javaScript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
